@@ -1,0 +1,6 @@
+@ITI.webApi_HostAddress = http://localhost:5208
+
+GET {{ITI.webApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

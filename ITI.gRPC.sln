@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.webApi", "ITI.webApi\ITI.webApi.csproj", "{6DCF6A86-3116-4CBB-85D4-4E32FD098FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.GrpcService", "ITI.GrpcService\ITI.GrpcService.csproj", "{0406C609-DE5E-4EA3-AFE2-F70F7AB2C569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCF6A86-3116-4CBB-85D4-4E32FD098FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCF6A86-3116-4CBB-85D4-4E32FD098FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCF6A86-3116-4CBB-85D4-4E32FD098FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCF6A86-3116-4CBB-85D4-4E32FD098FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0406C609-DE5E-4EA3-AFE2-F70F7AB2C569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0406C609-DE5E-4EA3-AFE2-F70F7AB2C569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0406C609-DE5E-4EA3-AFE2-F70F7AB2C569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0406C609-DE5E-4EA3-AFE2-F70F7AB2C569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75F6810A-B8B0-41A3-BB7C-69E7367A194F}
+	EndGlobalSection
+EndGlobal
